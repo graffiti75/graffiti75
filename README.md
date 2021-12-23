@@ -26,3 +26,4 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on [Udacity](https://www.udacity.com/) as a Code Reviewer since July 2016. I am also working as Android Instructor for [Elaborata Informática](https://www.elaborata.com.br/).
 - 💬 Ask me about Native Android Development, with Kotlin and Java.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/rodrigocericatto/) and [Gmail](graffiti75@gmail.com).
+- [Here](https://g.dev/RodrigoCericattoKonzen) is my Google Developer account.
