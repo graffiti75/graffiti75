@@ -4,7 +4,7 @@
 
 My name is Rodrigo Cericatto and I'm an [Android Developer certified by Google through the Android Developer Nanodegree](https://bit.ly/3iW3YJf) program. I also have been an Instructor since 2013.
 
-I have 10 years of experience in Android Development.
+I have 12 years of experience in Android Development.
 
 I have a [Problem Solving (Basic) Certificate of Hackerrank](https://www.hackerrank.com/certificates/663342ea7022), and I worked in several projects in my career like [Rock Dial](http://bit.ly/2U6NWBl), [Face Magazine](https://bit.ly/34zhp9B) (as employee), [Capstone Teleprompter](https://goo.gl/zjL41K), [HSM](http://goo.gl/4jDzo9) (as employee), [Tastely](http://goo.gl/rvrRk) (as employee), [Em Quem NÃO Votar Curitiba](https://bit.ly/2WUm5VF) and [Alo Ingressos](https://bit.ly/313r0Wj) (as employee).
 
