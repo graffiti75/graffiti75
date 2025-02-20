@@ -4,9 +4,13 @@
 
 My name is Rodrigo Cericatto and I'm an [Android Developer certified by Google through the Android Developer Nanodegree](https://bit.ly/3iW3YJf) program. I also have been an Instructor since 2013.
 
-I have 13 years of experience in Android Development.
+I have 14 years of experience in Android Development.
 
-I have a [Problem Solving (Basic) Certificate of Hackerrank](https://www.hackerrank.com/certificates/663342ea7022), and I worked in several projects in my career like [Rock Dial](http://bit.ly/2U6NWBl), [Face Magazine](https://bit.ly/34zhp9B) (as employee), [Capstone Teleprompter](https://goo.gl/zjL41K), [HSM](http://goo.gl/4jDzo9) (as employee), [Tastely](http://goo.gl/rvrRk) (as employee), [Em Quem NÃO Votar Curitiba](https://bit.ly/2WUm5VF) and [Alo Ingressos](https://bit.ly/313r0Wj) (as employee).
+I have a [Problem Solving (Basic) Certificate of Hackerrank](https://www.hackerrank.com/certificates/663342ea7022), and I worked in several projects in my career like [Rock Dial](https://www.youtube.com/watch?v=ZPmiA4CdTt4) (and here the [Paul McCartney Version](https://www.youtube.com/watch?v=cWk91phIiHg) of this app), [Face Magazine](https://bit.ly/34zhp9B) (as employee), [Capstone Teleprompter](https://drive.google.com/drive/folders/0B7-BCrhhCGUsQVRlcnVVeUNDNUk?resourcekey=0-hK1-rS5aFsYAiXnOvlMJHw&usp=sharing), [Tastely](http://goo.gl/rvrRk) (as employee), [Em Quem NÃO Votar Curitiba](https://bit.ly/2WUm5VF) and [Alo Ingressos](https://bit.ly/313r0Wj) (as employee).
+
+The latest project I am working is a [Reversi](https://github.com/graffiti75/Reversi) game for Android, using Jetpack Compose.
+
+[![Reversi](https://github.com/graffiti75/Reversi/blob/master/videos/20250220-172831_small.gif)](https://github.com/graffiti75/Reversi)
 
 <!--
 **graffiti75/graffiti75** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -23,7 +27,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on [Udacity](https://www.udacity.com/) as a Code Reviewer since July 2016. I am also working as Android Instructor for [Elaborata Informática](https://www.elaborata.com.br/).
-- 💬 Ask me about Native Android Development, with Kotlin and Java.
+- 🔭 I’m currently working on [Udacity](https://www.udacity.com/) as a Code Reviewer since July 2016. I am also working as an Android Instructor.
+- 💬 Ask me about Native Android Development with Kotlin.
+- 🌱 I’m currently learning Python, Web, and iOS in my free time.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/rodrigocericatto/) and [Gmail](graffiti75@gmail.com).
 - [Here](https://g.dev/RodrigoCericattoKonzen) is my Google Developer account.
