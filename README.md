@@ -22,6 +22,12 @@ A [Rick & Morty](https://github.com/graffiti75/RickMorty) app using the [Rick & 
 
 [![Rick & Morty](https://github.com/graffiti75/RickMorty/raw/master/media/showcase_small.gif)](https://github.com/graffiti75/RickMorty)
 
+#### AudioWaveformUI
+
+A Jetpack Compose UI Component based on WhatsApp. Check it [here](https://github.com/graffiti75/AudioWaveformUI)!
+
+[![AudioWaveformUI](https://github.com/graffiti75/AudioWaveformUI/blob/master/videos/waveform.gif)](https://github.com/graffiti75/AudioWaveformUI)
+
 <!--
 **graffiti75/graffiti75** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
