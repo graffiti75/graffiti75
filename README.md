@@ -10,35 +10,19 @@ I have a [Problem Solving (Basic) Certificate of Hackerrank](https://www.hackerr
 
 Some latest projects I am working:
 
-#### Reversi
+| Reversi | Rick & Morty | AudioWaveformUI | 
+|---------|---------|---------|
+| [![Reversi](https://github.com/graffiti75/Reversi/blob/master/videos/20250220-172831_small.gif)](https://github.com/graffiti75/Reversi) | [![Rick & Morty](https://github.com/graffiti75/RickMorty/raw/master/media/showcase_small.gif)](https://github.com/graffiti75/RickMorty) | [![AudioWaveformUI](https://github.com/graffiti75/AudioWaveformUI/blob/master/videos/waveform.gif)](https://github.com/graffiti75/AudioWaveformUI) |
 
-[Reversi](https://github.com/graffiti75/Reversi) game for Android, using Jetpack Compose.
+| ThousandsSeparator | MarsWeatherCard |
+|---------|---------|
+| [![ThousandsSeparator](https://github.com/graffiti75/ThousandsSeparator/blob/master/videos/video.gif)](https://github.com/graffiti75/ThousandsSeparator) | <img width="324" height="702" src="https://github.com/graffiti75/MarsWeatherCard/blob/master/images/image.png" alt="Mars Weather Card showcase image" > |
 
-[![Reversi](https://github.com/graffiti75/Reversi/blob/master/videos/20250220-172831_small.gif)](https://github.com/graffiti75/Reversi)
-
-#### Rick & Morty
-
-A [Rick & Morty](https://github.com/graffiti75/RickMorty) app using the [Rick & Morty API](https://rickandmortyapi.com/). This app was implemented using Jetpack Compose.
-
-[![Rick & Morty](https://github.com/graffiti75/RickMorty/raw/master/media/showcase_small.gif)](https://github.com/graffiti75/RickMorty)
-
-#### AudioWaveformUI
-
-A Jetpack Compose UI Component based on WhatsApp. Check it [here](https://github.com/graffiti75/AudioWaveformUI)!
-
-[![AudioWaveformUI](https://github.com/graffiti75/AudioWaveformUI/blob/master/videos/waveform.gif)](https://github.com/graffiti75/AudioWaveformUI)
-
-#### ThousandsSeparator
-
-A Jetpack Compose UI Component to select a currency inside a financial app. Check it [here](https://github.com/graffiti75/ThousandsSeparator)!
-
-[![ThousandsSeparator](https://github.com/graffiti75/ThousandsSeparator/blob/master/videos/video.gif)](https://github.com/graffiti75/ThousandsSeparator)
-
-#### MarsWeatherCard
-
-A simple [MarsWeatherCard](https://github.com/graffiti75/MarsWeatherCard) created using Jetpack Compose.
-
-<img width="324" height="702" src="https://github.com/graffiti75/MarsWeatherCard/blob/master/images/image.png" alt="Mars Weather Card showcase image" >
+- [Reversi](https://github.com/graffiti75/Reversi): A Reversi game for Android, implemented with Jetpack Compose.
+- [Rick & Morty](https://github.com/graffiti75/RickMorty): An app using the [Rick & Morty API](https://rickandmortyapi.com/). This app was implemented using Jetpack Compose.
+- [AudioWaveformUI](https://github.com/graffiti75/AudioWaveformUI): An audio Jetpack Compose UI Component based on WhatsApp.
+- [ThousandsSeparator](https://github.com/graffiti75/ThousandsSeparator): A Jetpack Compose UI Component to select a currency inside a financial app.
+- [MarsWeatherCard](https://github.com/graffiti75/MarsWeatherCard): A special Card component created using Jetpack Compose.
 
 <!--
 **graffiti75/graffiti75** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -54,6 +38,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+---
 
 - 🔭 I’m currently working on [Udacity](https://www.udacity.com/) as a Code Reviewer since July 2016. I am also working as an Android Instructor.
 - 💬 Ask me about Native Android Development with Kotlin.
