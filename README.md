@@ -28,6 +28,18 @@ A Jetpack Compose UI Component based on WhatsApp. Check it [here](https://github
 
 [![AudioWaveformUI](https://github.com/graffiti75/AudioWaveformUI/blob/master/videos/waveform.gif)](https://github.com/graffiti75/AudioWaveformUI)
 
+#### ThousandsSeparator
+
+A Jetpack Compose UI Component to select a currency inside a financial app. Check it [here](https://github.com/graffiti75/ThousandsSeparator)!
+
+[![ThousandsSeparator](https://github.com/graffiti75/ThousandsSeparator/blob/master/videos/video.gif)](https://github.com/graffiti75/ThousandsSeparator)
+
+#### MarsWeatherCard
+
+A simple [MarsWeatherCard](https://github.com/graffiti75/MarsWeatherCard) created using Jetpack Compose.
+
+<img width="324" height="702" src="https://github.com/graffiti75/MarsWeatherCard/blob/master/images/image.png" alt="Mars Weather Card showcase image" >
+
 <!--
 **graffiti75/graffiti75** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
