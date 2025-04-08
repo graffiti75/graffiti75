@@ -14,15 +14,16 @@ Some latest projects I am working:
 |---------|---------|---------|
 | [![Reversi](https://github.com/graffiti75/Reversi/blob/master/videos/20250220-172831_small.gif)](https://github.com/graffiti75/Reversi) | [![Rick & Morty](https://github.com/graffiti75/RickMorty/raw/master/media/showcase_small.gif)](https://github.com/graffiti75/RickMorty) | [![AudioWaveformUI](https://github.com/graffiti75/AudioWaveformUI/blob/master/videos/waveform.gif)](https://github.com/graffiti75/AudioWaveformUI) |
 
-| ThousandsSeparator | MarsWeatherCard |
-|---------|---------|
-| [![ThousandsSeparator](https://github.com/graffiti75/ThousandsSeparator/blob/master/videos/video.gif)](https://github.com/graffiti75/ThousandsSeparator) | <img width="324" height="702" src="https://github.com/graffiti75/MarsWeatherCard/blob/master/images/image.png" alt="Mars Weather Card showcase image" > |
+| ThousandsSeparator | MarsWeatherCard | DawnDusk |
+|---------|---------|---------|
+| [![ThousandsSeparator](https://github.com/graffiti75/ThousandsSeparator/blob/master/videos/video.gif)](https://github.com/graffiti75/ThousandsSeparator) | <img width="324" height="702" src="https://github.com/graffiti75/MarsWeatherCard/blob/master/images/image.png" alt="Mars Weather Card showcase image" > | <img width="324" height="702" src="https://github.com/graffiti75/DawnDusk/blob/master/media/video.gif" alt="DawnDusk showcase image" > |
 
 - [Reversi](https://github.com/graffiti75/Reversi): A Reversi game for Android, implemented with Jetpack Compose.
 - [Rick & Morty](https://github.com/graffiti75/RickMorty): An app using the [Rick & Morty API](https://rickandmortyapi.com/). This app was implemented using Jetpack Compose.
 - [AudioWaveformUI](https://github.com/graffiti75/AudioWaveformUI): An audio Jetpack Compose UI Component based on WhatsApp.
 - [ThousandsSeparator](https://github.com/graffiti75/ThousandsSeparator): A Jetpack Compose UI Component to select a currency inside a financial app.
 - [MarsWeatherCard](https://github.com/graffiti75/MarsWeatherCard): A special Card component created using Jetpack Compose.
+- [DawnDusk](https://github.com/graffiti75/DawnDusk): A full-screen UI that automatically switches between dawn and dusk visuals based on the device's theme (light or dark). Implemented using Jetpack Compose in Android, using Kotlin language.
 
 <!--
 **graffiti75/graffiti75** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
