@@ -10,14 +10,19 @@ I have a [Problem Solving (Basic) Certificate of Hackerrank](https://www.hackerr
 
 Some latest projects I am working:
 
-| Reversi | Rick & Morty | AudioWaveformUI | 
+| Scribble Dash | Reversi | Rick & Morty |
 |---------|---------|---------|
-| [![Reversi](https://github.com/graffiti75/Reversi/blob/master/videos/20250220-172831_small.gif)](https://github.com/graffiti75/Reversi) | [![Rick & Morty](https://github.com/graffiti75/RickMorty/raw/master/media/showcase_small.gif)](https://github.com/graffiti75/RickMorty) | [![AudioWaveformUI](https://github.com/graffiti75/AudioWaveformUI/blob/master/videos/waveform.gif)](https://github.com/graffiti75/AudioWaveformUI) |
+| [![ScribbleDash](https://github.com/graffiti75/ScribbleDash/blob/master/media/video.gif)](https://github.com/graffiti75/ScribbleDash) | [![Reversi](https://github.com/graffiti75/Reversi/blob/master/videos/20250220-172831_small.gif)](https://github.com/graffiti75/Reversi) | [![Rick & Morty](https://github.com/graffiti75/RickMorty/raw/master/media/showcase_small.gif)](https://github.com/graffiti75/RickMorty) |
 
-| DawnDusk | ThousandsSeparator | MarsWeatherCard | 
-|---------|---------|---------|
-| <img width="324" height="702" src="https://github.com/graffiti75/DawnDusk/blob/master/media/video.gif" alt="DawnDusk showcase image" > | [![ThousandsSeparator](https://github.com/graffiti75/ThousandsSeparator/blob/master/videos/video.gif)](https://github.com/graffiti75/ThousandsSeparator) | <img width="324" height="702" src="https://github.com/graffiti75/MarsWeatherCard/blob/master/images/image.png" alt="Mars Weather Card showcase image" > |
+| AudioWaveformUI | DawnDusk |
+|---------|---------|
+| [![AudioWaveformUI](https://github.com/graffiti75/AudioWaveformUI/blob/master/videos/waveform.gif)](https://github.com/graffiti75/AudioWaveformUI) | <img width="324" height="702" src="https://github.com/graffiti75/DawnDusk/blob/master/media/video.gif" alt="DawnDusk showcase image" > |
 
+| ThousandsSeparator | MarsWeatherCard | 
+|---------|---------|
+| [![ThousandsSeparator](https://github.com/graffiti75/ThousandsSeparator/blob/master/videos/video.gif)](https://github.com/graffiti75/ThousandsSeparator) | <img width="324" height="702" src="https://github.com/graffiti75/MarsWeatherCard/blob/master/images/image.png" alt="Mars Weather Card showcase image" > |
+
+- [ScribbleDash](https://github.com/graffiti75/ScribbleDash): A Drawing editor created using Jetpack Compose, Android, and Kotlin language.
 - [Reversi](https://github.com/graffiti75/Reversi): A Reversi game for Android, implemented with Jetpack Compose.
 - [Rick & Morty](https://github.com/graffiti75/RickMorty): An app using the [Rick & Morty API](https://rickandmortyapi.com/). This app was implemented using Jetpack Compose.
 - [AudioWaveformUI](https://github.com/graffiti75/AudioWaveformUI): An audio Jetpack Compose UI Component based on WhatsApp.
