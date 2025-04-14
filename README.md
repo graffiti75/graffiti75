@@ -10,13 +10,17 @@ I have a [Problem Solving (Basic) Certificate of Hackerrank](https://www.hackerr
 
 Some latest projects I am working:
 
-| Spacecraft Flip Cards | Scribble Dash | Reversi |
-|---------|---------|---------|
-| [![Spacecraft Flip Cards](https://github.com/graffiti75/SpacecraftFlipCards/blob/master/media/video.gif)](https://github.com/graffiti75/SpacecraftFlipCards) | [![ScribbleDash](https://github.com/graffiti75/ScribbleDash/blob/master/media/video.gif)](https://github.com/graffiti75/ScribbleDash) | [![Reversi](https://github.com/graffiti75/Reversi/blob/master/videos/20250220-172831_small.gif)](https://github.com/graffiti75/Reversi) |
+| Spacecraft Flip Cards | Scribble Dash |
+|---------|---------|
+| [![Spacecraft Flip Cards](https://github.com/graffiti75/SpacecraftFlipCards/blob/master/media/video.gif)](https://github.com/graffiti75/SpacecraftFlipCards) | [![ScribbleDash](https://github.com/graffiti75/ScribbleDash/blob/master/media/video.gif)](https://github.com/graffiti75/ScribbleDash) |
 
-| Rick & Morty | AudioWaveformUI | DawnDusk |
-|---------|---------|---------|
-| [![Rick & Morty](https://github.com/graffiti75/RickMorty/raw/master/media/showcase_small.gif)](https://github.com/graffiti75/RickMorty) | [![AudioWaveformUI](https://github.com/graffiti75/AudioWaveformUI/blob/master/videos/waveform.gif)](https://github.com/graffiti75/AudioWaveformUI) | <img width="324" height="702" src="https://github.com/graffiti75/DawnDusk/blob/master/media/video.gif" alt="DawnDusk showcase image" > |
+| Reversi | Rick & Morty | 
+|---------|---------|
+| [![Reversi](https://github.com/graffiti75/Reversi/blob/master/videos/20250220-172831_small.gif)](https://github.com/graffiti75/Reversi) | [![Rick & Morty](https://github.com/graffiti75/RickMorty/raw/master/media/showcase_small.gif)](https://github.com/graffiti75/RickMorty) |
+
+| AudioWaveformUI | DawnDusk |
+|---------|---------|
+| [![AudioWaveformUI](https://github.com/graffiti75/AudioWaveformUI/blob/master/videos/waveform.gif)](https://github.com/graffiti75/AudioWaveformUI) | <img width="324" height="702" src="https://github.com/graffiti75/DawnDusk/blob/master/media/video.gif" alt="DawnDusk showcase image" > |
 
 | ThousandsSeparator | MarsWeatherCard | 
 |---------|---------|
