@@ -10,6 +10,10 @@ I have a [Problem Solving (Basic) Certificate of Hackerrank](https://www.hackerr
 
 Some latest projects I am working:
 
+| Gravity Tilt | 
+|---------|
+| [![Gravity Tilt](https://github.com/graffiti75/GravityTilt/blob/master/media/video.gif)](https://github.com/graffiti75/GravityTilt) |
+
 | Spacecraft Flip Cards | Scribble Dash |
 |---------|---------|
 | [![Spacecraft Flip Cards](https://github.com/graffiti75/SpacecraftFlipCards/blob/master/media/video.gif)](https://github.com/graffiti75/SpacecraftFlipCards) | [![ScribbleDash](https://github.com/graffiti75/ScribbleDash/blob/master/media/video.gif)](https://github.com/graffiti75/ScribbleDash) |
@@ -26,6 +30,7 @@ Some latest projects I am working:
 |---------|---------|
 | [![ThousandsSeparator](https://github.com/graffiti75/ThousandsSeparator/blob/master/videos/video.gif)](https://github.com/graffiti75/ThousandsSeparator) | <img width="324" height="702" src="https://github.com/graffiti75/MarsWeatherCard/blob/master/images/image.png" alt="Mars Weather Card showcase image" > |
 
+- [GravityTilt](https://github.com/graffiti75/GravityTilt): A native Android app (using Kotlin and Jetpack Compose) where an animation flips a Spacecraft X and Y axis using device's accelerometer.
 - [SpacecraftFlipCards](https://github.com/graffiti75/SpacecraftFlipCards): A Jetpack Compose UI Component where an animation flips a Spacecraft Card in Y axis. Created using Jetpack Compose, Android, and Kotlin language.
 - [ScribbleDash](https://github.com/graffiti75/ScribbleDash): A Drawing editor created using Jetpack Compose, Android, and Kotlin language.
 - [Reversi](https://github.com/graffiti75/Reversi): A Reversi game for Android, implemented with Jetpack Compose.
