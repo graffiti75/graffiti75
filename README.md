@@ -10,9 +10,9 @@ I have a [Problem Solving (Basic) Certificate of Hackerrank](https://www.hackerr
 
 Some latest projects I am working:
 
-| Gravity Tilt | 
-|---------|
-| [![Gravity Tilt](https://github.com/graffiti75/GravityTilt/blob/master/media/video.gif)](https://github.com/graffiti75/GravityTilt) |
+| Egg Basket Collection | Gravity Tilt | 
+|---------|---------|
+| [![Egg Basket Collection](https://github.com/graffiti75/EggBasketCollection/blob/master/media/video.gif)](https://github.com/graffiti75/EggBasketCollection) | [![Spacecraft Flip Cards](https://github.com/graffiti75/GravityTilt/blob/master/media/video.gif)](https://github.com/graffiti75/SpacecraftFlipCards) |
 
 | Spacecraft Flip Cards | Scribble Dash |
 |---------|---------|
