@@ -2,7 +2,23 @@
 
 [![wakatime](https://wakatime.com/badge/user/5f0fde71-0daa-4b86-b75d-04efb7280ef9.svg)](https://wakatime.com/@5f0fde71-0daa-4b86-b75d-04efb7280ef9)
 
+<p>
+  <img align="top" src="https://github-readme-stats.vercel.app/api?username=graffiti75&show_icons=true&theme=rose_pine&locale=en&layout=compact" alt="Rodrigo Cericatto" />
+  &nbsp;
+  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs?username=graffiti75&show_icons=true&theme=rose_pine&locale=en&layout=compact" alt="Rodrigo Cericatto" />
+</p>
+
 My name is Rodrigo Cericatto and I'm an [Android Developer certified by Google through the Android Developer Nanodegree](https://bit.ly/3iW3YJf) program. I also have been an Instructor since 2013.
+
+---
+
+- 🔭 I’m currently working on [Udacity](https://www.udacity.com/) as a Code Reviewer since July 2016. I am also working as an Android Instructor.
+- 💬 Ask me about Native Android Development with Kotlin.
+- 🌱 I’m currently learning Python, Web, and iOS in my free time.
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/rodrigocericatto/) and [Gmail](graffiti75@gmail.com).
+- [Here](https://g.dev/RodrigoCericattoKonzen) is my Google Developer account.
+
+---
 
 I have 14 years of experience in Android Development.
 
@@ -56,10 +72,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
----
-
-- 🔭 I’m currently working on [Udacity](https://www.udacity.com/) as a Code Reviewer since July 2016. I am also working as an Android Instructor.
-- 💬 Ask me about Native Android Development with Kotlin.
-- 🌱 I’m currently learning Python, Web, and iOS in my free time.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/rodrigocericatto/) and [Gmail](graffiti75@gmail.com).
-- [Here](https://g.dev/RodrigoCericattoKonzen) is my Google Developer account.
