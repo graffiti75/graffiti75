@@ -28,23 +28,23 @@ Some latest projects I am working:
 
 | Egg Basket Collection | Gravity Tilt | 
 |---------|---------|
-| [![Egg Basket Collection](https://github.com/graffiti75/EggBasketCollection/blob/master/media/video.gif)](https://github.com/graffiti75/EggBasketCollection) | [![Spacecraft Flip Cards](https://github.com/graffiti75/GravityTilt/blob/master/media/video.gif)](https://github.com/graffiti75/SpacecraftFlipCards) |
+| [![Egg Basket Collection](https://raw.githubusercontent.com/graffiti75/EggBasketCollection/refs/heads/master/media/video.gif)](https://github.com/graffiti75/EggBasketCollection) | [![Spacecraft Flip Cards](https://raw.githubusercontent.com/graffiti75/GravityTilt/refs/heads/master/media/video.gif)](https://github.com/graffiti75/SpacecraftFlipCards) |
 
 | Spacecraft Flip Cards | Scribble Dash |
 |---------|---------|
-| [![Spacecraft Flip Cards](https://github.com/graffiti75/SpacecraftFlipCards/blob/master/media/video.gif)](https://github.com/graffiti75/SpacecraftFlipCards) | [![ScribbleDash](https://github.com/graffiti75/ScribbleDash/blob/master/media/video.gif)](https://github.com/graffiti75/ScribbleDash) |
+| [![Spacecraft Flip Cards](https://raw.githubusercontent.com/graffiti75/SpacecraftFlipCards/refs/heads/master/media/video.gif)](https://github.com/graffiti75/SpacecraftFlipCards) | [![ScribbleDash](https://raw.githubusercontent.com/graffiti75/ScribbleDash/refs/heads/master/media/video.gif)](https://github.com/graffiti75/ScribbleDash) |
 
 | Reversi | Rick & Morty | 
 |---------|---------|
-| [![Reversi](https://github.com/graffiti75/Reversi/blob/master/videos/20250220-172831_small.gif)](https://github.com/graffiti75/Reversi) | [![Rick & Morty](https://github.com/graffiti75/RickMorty/raw/master/media/showcase_small.gif)](https://github.com/graffiti75/RickMorty) |
+| [![Reversi](https://raw.githubusercontent.com/graffiti75/Reversi/refs/heads/master/videos/20250220-172831_small.gif)](https://github.com/graffiti75/Reversi) | [![Rick & Morty](https://github.com/graffiti75/RickMorty/raw/master/media/showcase_small.gif)](https://github.com/graffiti75/RickMorty) |
 
 | AudioWaveformUI | DawnDusk |
 |---------|---------|
-| [![AudioWaveformUI](https://github.com/graffiti75/AudioWaveformUI/blob/master/videos/waveform.gif)](https://github.com/graffiti75/AudioWaveformUI) | <img width="324" height="702" src="https://github.com/graffiti75/DawnDusk/blob/master/media/video.gif" alt="DawnDusk showcase image" > |
+| [![AudioWaveformUI](https://raw.githubusercontent.com/graffiti75/AudioWaveformUI/refs/heads/master/videos/waveform.gif)](https://github.com/graffiti75/AudioWaveformUI) | <img width="324" height="702" src="https://raw.githubusercontent.com/graffiti75/DawnDusk/refs/heads/master/media/video.gif" alt="DawnDusk showcase image" > |
 
 | ThousandsSeparator | MarsWeatherCard | 
 |---------|---------|
-| [![ThousandsSeparator](https://github.com/graffiti75/ThousandsSeparator/blob/master/videos/video.gif)](https://github.com/graffiti75/ThousandsSeparator) | <img width="324" height="702" src="https://github.com/graffiti75/MarsWeatherCard/blob/master/images/image.png" alt="Mars Weather Card showcase image" > |
+| [![ThousandsSeparator](https://raw.githubusercontent.com/graffiti75/ThousandsSeparator/refs/heads/master/videos/video.gif)](https://github.com/graffiti75/ThousandsSeparator) | <img width="324" height="702" src="https://raw.githubusercontent.com/graffiti75/MarsWeatherCard/refs/heads/master/images/image.png" alt="Mars Weather Card showcase image" > |
 
 - [EggBasketCollection](https://github.com/graffiti75/EggBasketCollection): A native Android app (using Kotlin and Jetpack Compose). A drag-and-drop interface where users move eggs into a designated basket "hot zone". Upon successful drops, the basket image should update to reflect progress. Encourage good drops and discourage misses with visual and animated feedback.
 - [GravityTilt](https://github.com/graffiti75/GravityTilt): A native Android app (using Kotlin and Jetpack Compose) where an animation flips a Spacecraft X and Y axis using device's accelerometer.
