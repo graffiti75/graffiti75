@@ -26,6 +26,10 @@ I have a [Problem Solving (Basic) Certificate of Hackerrank](https://www.hackerr
 
 Some latest projects I am working:
 
+## Vintage Rock Radio
+
+[![Vintage Rock Radio](https://raw.githubusercontent.com/graffiti75/VintageRadioRockiOS/refs/heads/master/videos/video.gif)](https://github.com/graffiti75/VintageRadioRockiOS)
+
 | Egg Basket Collection | Gravity Tilt | 
 |---------|---------|
 | [![Egg Basket Collection](https://raw.githubusercontent.com/graffiti75/EggBasketCollection/refs/heads/master/media/video.gif)](https://github.com/graffiti75/EggBasketCollection) | [![Spacecraft Flip Cards](https://raw.githubusercontent.com/graffiti75/GravityTilt/refs/heads/master/media/video.gif)](https://github.com/graffiti75/SpacecraftFlipCards) |
@@ -46,6 +50,7 @@ Some latest projects I am working:
 |---------|---------|
 | [![ThousandsSeparator](https://raw.githubusercontent.com/graffiti75/ThousandsSeparator/refs/heads/master/videos/video.gif)](https://github.com/graffiti75/ThousandsSeparator) | <img width="324" height="702" src="https://raw.githubusercontent.com/graffiti75/MarsWeatherCard/refs/heads/master/images/image.png" alt="Mars Weather Card showcase image" > |
 
+- [VintageRockRadio](https://github.com/graffiti75/VintageRadioRockiOS): This application brings you a curated collection of classic hits from the 50s, 60s, 70s, 80s, 90s, and 2000s.
 - [EggBasketCollection](https://github.com/graffiti75/EggBasketCollection): A native Android app (using Kotlin and Jetpack Compose). A drag-and-drop interface where users move eggs into a designated basket "hot zone". Upon successful drops, the basket image should update to reflect progress. Encourage good drops and discourage misses with visual and animated feedback.
 - [GravityTilt](https://github.com/graffiti75/GravityTilt): A native Android app (using Kotlin and Jetpack Compose) where an animation flips a Spacecraft X and Y axis using device's accelerometer.
 - [SpacecraftFlipCards](https://github.com/graffiti75/SpacecraftFlipCards): A Jetpack Compose UI Component where an animation flips a Spacecraft Card in Y axis. Created using Jetpack Compose, Android, and Kotlin language.
