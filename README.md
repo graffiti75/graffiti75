@@ -16,7 +16,7 @@ My name is Rodrigo Cericatto and I'm an [Android Developer certified by Google t
 - 💬 Ask me about Native Android Development with Kotlin.
 - 🌱 I’m currently learning Python, Web, and iOS in my free time.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/rodrigocericatto/) and [Gmail](graffiti75@gmail.com).
-- [Here](https://g.dev/RodrigoCericattoKonzen) is my Google Developer account.
+- [Here](https://g.dev/RodrigoCericatto) is my Google Developer account.
 
 ---
 
