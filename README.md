@@ -28,6 +28,22 @@ Some latest projects I am working:
 
 ## Skill Pulse
 
+SkillPulse is a modern, responsive React dashboard and task management app built with performance, usability, and modular design in mind. It integrates user authentication, dynamic filtering, theming, and Firebase backend support — making it a solid example of production-ready front-end engineering.
+
+### 🔍 Key Features
+
+- 🚀 React with Hooks & Functional Components — Clean, maintainable UI built using the latest React patterns and best practices.
+- 🔐 Firebase Authentication — Email/password sign-in and session management with Firebase for secure user flows.
+- 🗂️ Filtering & Task Dashboard — Dynamic task views with filters, pagination concepts, and intuitive interaction components.
+- 🌗 Dark Mode Support — Switchable theming to improve accessibility and user comfort.
+- 📱 Responsive UI Layouts — Adaptive design with optimized headers, sticky elements, and mobile-friendly interfaces.
+- 🧩 Modular Codebase — Organized structure with reusable components, utility hooks, and ongoing refactors for scale.
+- 📦 Deployment Ready — Includes workflows for staging and deployment (e.g., GitHub Pages support).
+
+### 🛠️ Tech Stack
+
+React • React Hooks • Firebase (Auth + Firestore) • CSS/Global Styling • Git & GitHub Actions
+
 [![Skill Pulse](https://raw.githubusercontent.com/graffiti75/SkillPulseReact/refs/heads/master/media/Screen%20Recording%202026-02-04%20at%2017.10.28.gif)](https://github.com/graffiti75/SkillPulseReact)
 
 ## Vintage Rock Radio
