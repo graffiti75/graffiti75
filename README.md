@@ -26,6 +26,10 @@ I have a [Problem Solving (Basic) Certificate of Hackerrank](https://www.hackerr
 
 Some latest projects I am working:
 
+## Skill Pulse
+
+[![Skill Pulse](https://raw.githubusercontent.com/graffiti75/SkillPulseReact/refs/heads/master/media/Screen%20Recording%202026-02-04%20at%2017.10.28.gif)](https://github.com/graffiti75/SkillPulseReact)
+
 ## Vintage Rock Radio
 
 [![Vintage Rock Radio](https://raw.githubusercontent.com/graffiti75/VintageRadioRockiOS/refs/heads/master/videos/video.gif)](https://github.com/graffiti75/VintageRadioRockiOS)
@@ -50,6 +54,7 @@ Some latest projects I am working:
 |---------|---------|
 | [![ThousandsSeparator](https://raw.githubusercontent.com/graffiti75/ThousandsSeparator/refs/heads/master/videos/video.gif)](https://github.com/graffiti75/ThousandsSeparator) | <img width="324" height="702" src="https://raw.githubusercontent.com/graffiti75/MarsWeatherCard/refs/heads/master/images/image.png" alt="Mars Weather Card showcase image" > |
 
+- [SkillPulse](https://github.com/graffiti75/SkillPulseReact): A real-time task management app built with React and Firebase. Check [here](https://graffiti75.github.io/SkillPulseReact/) its published version.
 - [VintageRockRadio](https://github.com/graffiti75/VintageRadioRockiOS): This application brings you a curated collection of classic hits from the 50s, 60s, 70s, 80s, 90s, and 2000s.
 - [EggBasketCollection](https://github.com/graffiti75/EggBasketCollection): A native Android app (using Kotlin and Jetpack Compose). A drag-and-drop interface where users move eggs into a designated basket "hot zone". Upon successful drops, the basket image should update to reflect progress. Encourage good drops and discourage misses with visual and animated feedback.
 - [GravityTilt](https://github.com/graffiti75/GravityTilt): A native Android app (using Kotlin and Jetpack Compose) where an animation flips a Spacecraft X and Y axis using device's accelerometer.
