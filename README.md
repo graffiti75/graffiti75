@@ -12,7 +12,7 @@ My name is Rodrigo Cericatto and I'm an [Android Developer certified by Google t
 
 ---
 
-- 🔭 I’m currently working on [Udacity](https://www.udacity.com/) as a Code Reviewer since July 2016. I am also working as an Android Instructor.
+- 🔭 I’m currently working as a Freelancer implementing Mobile (Android, iOS) and Web apps.
 - 💬 Ask me about Native Android Development with Kotlin.
 - 🌱 I’m currently learning Python, Web, and iOS in my free time.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/rodrigocericatto/) and [Gmail](graffiti75@gmail.com).
