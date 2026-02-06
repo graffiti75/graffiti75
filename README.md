@@ -26,7 +26,26 @@ I have a [Problem Solving (Basic) Certificate of Hackerrank](https://www.hackerr
 
 Some latest projects I am working:
 
-## Skill Pulse
+## Skill Pulse (for Android)
+
+SkillPulse is a native Android application that bridges the gap between modern mobile UI and Python-based logic. The project demonstrates a hybrid architecture, leveraging Kotlin for the frontend and Python for core scripting and data handling.
+
+### 🔍 Key Features
+
+- 🚀 Native Android with Kotlin Language — Clean, maintainable UI built using the latest Android patterns and best practices, using Kotlin language.
+- 🔐 Firebase Authentication — Email/password sign-in and session management with Firebase for secure user flows.
+- 🗂️ Filtering & Task Dashboard — Dynamic task views with filters, pagination concepts, and intuitive interaction components.
+- 📱 Responsive UI Layouts — Adaptive design with Jetpack Compose.
+- 🧩 Modular Codebase — Organized structure with reusable components, using Clean Architecture and MVI pattern.
+- 📦 Deployment Ready — Includes workflows for staging and deployment (e.g., GitHub Pages support).
+
+### 🛠️ Tech Stack
+
+Android • Android Studio • Firebase (Auth + Firestore) • Jetpack Compose UI • Git & GitHub Actions • Kotlin Language
+
+[![SkillPulse Demo](https://raw.githubusercontent.com/graffiti75/SkillPulse/refs/heads/master/media/Screen%20Recording%202026-02-06%20at%2012.11.57.gif)](https://github.com/graffiti75/SkillPulse)
+
+## Skill Pulse (for React)
 
 SkillPulse is a modern, responsive React dashboard and task management app built with performance, usability, and modular design in mind. It integrates user authentication, dynamic filtering, theming, and Firebase backend support — making it a solid example of production-ready front-end engineering.
 
@@ -70,7 +89,8 @@ React • React Hooks • Firebase (Auth + Firestore) • CSS/Global Styling •
 |---------|---------|
 | [![ThousandsSeparator](https://raw.githubusercontent.com/graffiti75/ThousandsSeparator/refs/heads/master/videos/video.gif)](https://github.com/graffiti75/ThousandsSeparator) | <img width="324" height="702" src="https://raw.githubusercontent.com/graffiti75/MarsWeatherCard/refs/heads/master/images/image.png" alt="Mars Weather Card showcase image" > |
 
-- [SkillPulse](https://github.com/graffiti75/SkillPulseReact): A real-time task management app built with React and Firebase. Check [here](https://graffiti75.github.io/SkillPulseReact/) its published version.
+- [SkillPulse (Android)](https://github.com/graffiti75/SkillPulse): SkillPulse is a native Android application that bridges the gap between modern mobile UI and Python-based logic.
+- [SkillPulse (React)](https://github.com/graffiti75/SkillPulseReact): A real-time task management app built with React and Firebase. Check [here](https://graffiti75.github.io/SkillPulseReact/) its published version.
 - [VintageRockRadio](https://github.com/graffiti75/VintageRadioRockiOS): This application brings you a curated collection of classic hits from the 50s, 60s, 70s, 80s, 90s, and 2000s.
 - [EggBasketCollection](https://github.com/graffiti75/EggBasketCollection): A native Android app (using Kotlin and Jetpack Compose). A drag-and-drop interface where users move eggs into a designated basket "hot zone". Upon successful drops, the basket image should update to reflect progress. Encourage good drops and discourage misses with visual and animated feedback.
 - [GravityTilt](https://github.com/graffiti75/GravityTilt): A native Android app (using Kotlin and Jetpack Compose) where an animation flips a Spacecraft X and Y axis using device's accelerometer.
