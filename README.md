@@ -26,6 +26,25 @@ I have a [Problem Solving (Basic) Certificate of Hackerrank](https://www.hackerr
 
 Some latest projects I am working:
 
+## Skill Pulse (for iOS)
+
+SkillPulse is a native Android application that bridges the gap between modern mobile UI and Python-based logic. The project demonstrates a hybrid architecture, leveraging Kotlin for the frontend and Python for core scripting and data handling.
+
+### 🔍 Key Features
+
+- 🚀 Native iOS with Swift Language — Clean, maintainable UI built using the latest iOS patterns and best practices, using Swift language.
+- 🔐 Firebase Authentication — Email/password sign-in and session management with Firebase for secure user flows.
+- 🗂️ Filtering & Task Dashboard — Dynamic task views with filters, pagination concepts, and intuitive interaction components.
+- 📱 Responsive UI Layouts — Adaptive design with Swift UI.
+- 🧩 Modular Codebase — Organized structure with reusable components, using Clean Architecture and MVVM pattern.
+- 📦 Deployment Ready — Includes workflows for staging and deployment (e.g., GitHub Pages support).
+
+### 🛠️ Tech Stack
+
+iOS • Xcode • Firebase (Auth + Firestore) • Swift UI • Git & GitHub Actions • Swift Language
+
+[![SkillPulse iOS Demo](https://raw.githubusercontent.com/graffiti75/SkillPulseiOS/refs/heads/master/SkillPulseiOS/media/Simulator%20Screen%20Recording%20-%20iPhone%2017%20Pro%20-%202026-02-09%20at%2015.21.19.gif)](https://github.com/graffiti75/SkillPulseiOS)
+
 ## Skill Pulse (for Android)
 
 SkillPulse is a native Android application that bridges the gap between modern mobile UI and Python-based logic. The project demonstrates a hybrid architecture, leveraging Kotlin for the frontend and Python for core scripting and data handling.
@@ -89,6 +108,7 @@ React • React Hooks • Firebase (Auth + Firestore) • CSS/Global Styling •
 |---------|---------|
 | [![ThousandsSeparator](https://raw.githubusercontent.com/graffiti75/ThousandsSeparator/refs/heads/master/videos/video.gif)](https://github.com/graffiti75/ThousandsSeparator) | <img width="324" height="702" src="https://raw.githubusercontent.com/graffiti75/MarsWeatherCard/refs/heads/master/images/image.png" alt="Mars Weather Card showcase image" > |
 
+- [SkillPulse (iOS)](https://github.com/graffiti75/SkillPulseiOS): SkillPulse is a native iOS application that bridges the gap between modern mobile UI and Python-based logic.
 - [SkillPulse (Android)](https://github.com/graffiti75/SkillPulse): SkillPulse is a native Android application that bridges the gap between modern mobile UI and Python-based logic.
 - [SkillPulse (React)](https://github.com/graffiti75/SkillPulseReact): A real-time task management app built with React and Firebase. Check [here](https://graffiti75.github.io/SkillPulseReact/) its published version.
 - [VintageRockRadio](https://github.com/graffiti75/VintageRadioRockiOS): This application brings you a curated collection of classic hits from the 50s, 60s, 70s, 80s, 90s, and 2000s.
