@@ -84,6 +84,10 @@ React • React Hooks • Firebase (Auth + Firestore) • CSS/Global Styling •
 
 [![Skill Pulse](https://raw.githubusercontent.com/graffiti75/SkillPulseReact/refs/heads/master/media/Screen%20Recording%202026-02-04%20at%2017.10.28.gif)](https://github.com/graffiti75/SkillPulseReact)
 
+## Rock Dial Dates
+
+[![Rock Dial Dates](https://raw.githubusercontent.com/graffiti75/RockWoodDial/refs/heads/master/media/rock_dial_dates.gif)](https://github.com/graffiti75/RockWoodDial)
+
 ## Vintage Rock Radio
 
 [![Vintage Rock Radio](https://raw.githubusercontent.com/graffiti75/VintageRadioRockiOS/refs/heads/master/videos/video.gif)](https://github.com/graffiti75/VintageRadioRockiOS)
